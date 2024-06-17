@@ -1,2 +1,0 @@
-int64 status
-int64 order_id
