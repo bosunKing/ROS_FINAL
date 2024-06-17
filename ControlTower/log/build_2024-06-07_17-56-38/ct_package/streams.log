@@ -1,0 +1,32 @@
+[0.573s] Invoking command in '/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/ct_package': PYTHONPATH=/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/ct_package/prefix_override:/home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ct_package build --build-base /home/bo/amr_ws/final/ros-repo-3/ControlTower/build/ct_package/build install --record /home/bo/amr_ws/final/ros-repo-3/ControlTower/build/ct_package/install.log --single-version-externally-managed install_data
+[0.763s] running egg_info
+[0.764s] writing ../../build/ct_package/ct_package.egg-info/PKG-INFO
+[0.764s] writing dependency_links to ../../build/ct_package/ct_package.egg-info/dependency_links.txt
+[0.764s] writing entry points to ../../build/ct_package/ct_package.egg-info/entry_points.txt
+[0.764s] writing requirements to ../../build/ct_package/ct_package.egg-info/requires.txt
+[0.764s] writing top-level names to ../../build/ct_package/ct_package.egg-info/top_level.txt
+[0.766s] reading manifest file '../../build/ct_package/ct_package.egg-info/SOURCES.txt'
+[0.766s] writing manifest file '../../build/ct_package/ct_package.egg-info/SOURCES.txt'
+[0.766s] running build
+[0.767s] running build_py
+[0.767s] copying ct_package/KioskManager.py -> /home/bo/amr_ws/final/ros-repo-3/ControlTower/build/ct_package/build/lib/ct_package
+[0.767s] running install
+[0.767s] running install_lib
+[0.768s] copying /home/bo/amr_ws/final/ros-repo-3/ControlTower/build/ct_package/build/lib/ct_package/KioskManager.py -> /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/python3.10/site-packages/ct_package
+[0.768s] byte-compiling /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/python3.10/site-packages/ct_package/KioskManager.py to KioskManager.cpython-310.pyc
+[0.770s] running install_data
+[0.770s] running install_egg_info
+[0.771s] removing '/home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/python3.10/site-packages/ct_package-0.0.0-py3.10.egg-info' (and everything under it)
+[0.771s] Copying ../../build/ct_package/ct_package.egg-info to /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/python3.10/site-packages/ct_package-0.0.0-py3.10.egg-info
+[0.772s] running install_scripts
+[0.786s] Installing control_tower script to /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/ct_package
+[0.786s] Installing db_manager script to /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/ct_package
+[0.786s] Installing drobot_control script to /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/ct_package
+[0.786s] Installing kiosk_manager script to /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/ct_package
+[0.787s] Installing pathDict script to /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/ct_package
+[0.787s] Installing robot_manager script to /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/ct_package
+[0.787s] Installing service_client script to /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/ct_package
+[0.787s] Installing store_manager script to /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/ct_package
+[0.788s] Installing taskManager script to /home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/ct_package
+[0.789s] writing list of installed files to '/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/ct_package/install.log'
+[0.803s] Invoked command in '/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/ct_package' returned '0': PYTHONPATH=/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/ct_package/prefix_override:/home/bo/amr_ws/final/ros-repo-3/ControlTower/install/ct_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ct_package build --build-base /home/bo/amr_ws/final/ros-repo-3/ControlTower/build/ct_package/build install --record /home/bo/amr_ws/final/ros-repo-3/ControlTower/build/ct_package/install.log --single-version-externally-managed install_data

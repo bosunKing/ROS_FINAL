@@ -1,0 +1,18 @@
+{
+  "package_name": "interface_package",
+  "non_idl_tuples": [
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:srv/OrderTracking.srv",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:srv/OrderInfo.srv",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:srv/LocationInfo.srv",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:srv/OrderCall.srv",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:srv/GoalArrival.srv",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:srv/RobotCall.srv",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:srv/DeliveryBox.srv",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:srv/StoreAlarm.srv",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:srv/RobotDispatch.srv",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:srv/NodeNum.srv",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:msg/Navgoal.msg",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:msg/Navfeedback.msg",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/src/interface_package:msg/Navresult.msg"
+  ]
+}

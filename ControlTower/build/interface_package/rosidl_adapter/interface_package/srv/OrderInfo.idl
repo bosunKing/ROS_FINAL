@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interface_package/srv/OrderInfo.srv
+// generated code does not contain a copyright notice
+
+
+module interface_package {
+  module srv {
+    struct OrderInfo_Request {
+      string order_id;
+
+      string uid;
+    };
+    struct OrderInfo_Response {
+      boolean success;
+    };
+  };
+};

@@ -1,0 +1,5 @@
+string order_id
+string store_id
+string kiosk_id
+string uid
+string robot_id

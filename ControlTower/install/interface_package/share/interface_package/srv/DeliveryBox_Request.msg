@@ -1,0 +1,3 @@
+int64 status
+string order_id
+string robot_id

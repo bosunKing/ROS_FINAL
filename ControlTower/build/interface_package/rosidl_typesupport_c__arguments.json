@@ -1,0 +1,41 @@
+{
+  "package_name": "interface_package",
+  "output_dir": "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_typesupport_c/interface_package",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_c/resource",
+  "idl_tuples": [
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:srv/OrderTracking.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:srv/OrderInfo.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:srv/LocationInfo.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:srv/OrderCall.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:srv/GoalArrival.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:srv/RobotCall.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:srv/DeliveryBox.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:srv/StoreAlarm.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:srv/RobotDispatch.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:srv/NodeNum.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:msg/Navgoal.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:msg/Navfeedback.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package:msg/Navresult.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_c/rosidl_typesupport_c",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/action__type_support.c.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/idl__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/msg__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/srv__type_support.cpp.em",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/srv/OrderTracking.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/srv/OrderInfo.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/srv/LocationInfo.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/srv/OrderCall.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/srv/GoalArrival.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/srv/RobotCall.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/srv/DeliveryBox.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/srv/StoreAlarm.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/srv/RobotDispatch.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/srv/NodeNum.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/msg/Navgoal.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/msg/Navfeedback.idl",
+    "/home/bo/amr_ws/final/ros-repo-3/ControlTower/build/interface_package/rosidl_adapter/interface_package/msg/Navresult.idl"
+  ]
+}
